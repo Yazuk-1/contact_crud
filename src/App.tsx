@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <ContactForm></ContactForm>
+      <ContactForm></ContactForm>
     </>
   )
 }
